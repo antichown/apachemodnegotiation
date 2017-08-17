@@ -4,7 +4,6 @@
 02
 03
 1
-index
 10
 100
 1000
@@ -500,7 +499,6 @@ logfiles
 logger
 logging
 login
-logo
 logon
 logout
 logs
